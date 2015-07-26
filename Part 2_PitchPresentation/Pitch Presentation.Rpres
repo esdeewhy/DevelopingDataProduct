@@ -13,7 +13,7 @@ Part 1: Shiny Apllication
 . URL: https://github.com/esdeewhy/DevelopingDataProduct/tree/master/Part 1_ShinyApp
 
 Part 2: Reproducible Pitch Presentation
-. URL: 
+. URL: https://github.com/esdeewhy/DevelopingDataProduct/tree/master/Part 2_PitchPresentation
 
 Link for source coude:
 . URL: https://github.com/esdeewhy/DevelopingDataProduct
