@@ -64,8 +64,8 @@ shinyUI(
                       )
              ),
              tabPanel("SourceCode",
-                      p("part1_devdataprod-shiny"),
-                      a("https://github.com/swhgoon/devdataprod-cp/tree/master/part1_devdataprod-shiny")
+                      p("Part 1_ShinyApp"),
+                      a("https://github.com/esdeewhy/DevelopingDataProduct/tree/master/Part 1_ShinyApp")
              ),
              tabPanel("Special",
                       a("http://swhgoon.github.io/devdataprod-cp/part0_regmods-mtcars.html"),
