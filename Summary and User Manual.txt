@@ -1,0 +1,23 @@
+Summary
+
+This shiny Application is inspired by the Regression Models Course project we worked on.
+Looking at a data set of a collection of cars, we are interested in exploring the relationship between 
+a set of variables and miles per gallon (MPG) (outcome).
+
+In this project, I focussed on answering two main questions:
+
+1- Is an automatic or manual transmission better for MPG
+   
+2- Quantifying how different is the MPG between automatic and manual transmissions?
+
+
+
+How to use this application?
+
+1- Go in the URL: https://github.com/esdeewhy/DevelopingDataProduct/tree/master/Part 1_ShinyApp
+
+2- Save the R code ui.R and server.R in the directory
+
+3- Open ui.R and set the working directory to where the file were save in step 2
+
+4- Run the APP.
